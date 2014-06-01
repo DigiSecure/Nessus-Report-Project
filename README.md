@@ -1,7 +1,7 @@
 # Nessus-Report-Project
 
 ## Description
-
+   The current stage of this project takes a ".nessus" file and creates three csv files split into informational, critical, and High/Medium/Low severity.   
 
 ## Dependencies
 
@@ -9,6 +9,7 @@
    Please note: You will have to modify bid and cve since the mantainer of the package use nut updated it since March 2014 , now May 2014 
 
 ## Usage & Examples
+   `ruby nessustocsv.rb`
 
 ``  
 ## Requirements
