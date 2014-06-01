@@ -6,7 +6,7 @@
 ## Dependencies
 
   ``sudo gem install ruby-nessus``
-  ``` Please note: You will have to modify bid and cve since the mantainer of the package use nut updated it since March 2014 , now May 2014 ``` 
+  ` Please note: You will have to modify bid and cve since the mantainer of the package use nut updated it since March 2014 , now May 2014 `
 
 ## Usage & Examples
 
